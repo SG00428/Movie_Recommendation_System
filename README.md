@@ -24,4 +24,19 @@ The app offers:
 - Dynamic recommendations as per user feedback
 
 ---
+## How to Run
+
+### 1. Clone this repository
+
+`git clone https://github.com/SG00428/Movie_Recommendation_System.git`
+
+`cd Movie_Recommendation_System`
+
+### 2. To run the Streamlit app
+
+`streamlit run app/app.py`
+
+Then open the local server link in your browser.
+
+---
 
